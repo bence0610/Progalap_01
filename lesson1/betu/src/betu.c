@@ -1,0 +1,2 @@
+// megoldas
+char kedvencBetu = 'C';
